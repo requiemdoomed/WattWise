@@ -27,7 +27,7 @@ The accompanying `WattWise.bib` uses `@misc` for compatibility with conventional
 ```bibtex
 @misc{shakya2026wattwise,
   author       = {Shakya, Swayam},
-  title        = {{WattWise}: Household Appliance Energy Estimation and Forecasting},
+  title        = {{WattWise}: A Regression-based Household Appliance Energy Consumption Prediction, with a test on Temporal Generalization},
   year         = {2026},
   howpublished = {GitHub repository, version 2.0.0},
   url          = {https://github.com/requiemdoomed/WattWise},
@@ -56,13 +56,8 @@ Please also cite the original dataset and research used in your analysis.
 ## Metadata and reproducibility notes
 
 - The repository was inspected on November 10, 2026. Its existing `CITATION.cff` declares version **2.0.0**, dated **2026-10-27**; these values are preserved. The GitHub API returned no tags or releases at inspection, so this is a declared software version, not a verified GitHub release tag.
-- The supplied title aligns the citation metadata with the current WattWise manuscript. The previous citation title was “WattWise: Temporal Generalization in Household Appliance Energy Regression.”
+- The supplied title aligns the citation metadata with the current WattWise manuscript. The previous citation title was “WattWise: A Regression-based Household Appliance Energy Consumption Prediction, with a test on Temporal Generalization
+.”
 - The inspected `main` commit was `1d6707cab05c636fcb12b79822d642676918e737`. Its permanent source URL is https://github.com/requiemdoomed/WattWise/tree/1d6707cab05c636fcb12b79822d642676918e737. This identifies the inspected repository snapshot; it has not been established as the exact source snapshot for the November manuscript audit. Cite the actual experiment commit when that correspondence is verified.
 - No DOI, publication venue, acceptance status, ORCID, or affiliation is asserted. The CFF describes software rather than a published IEEE article.
 - The existing README and citation file claim MIT licensing, but the current `LICENSE` file states that no open-source license has been granted. The replacement citation file omits the optional license field to avoid repeating that contradiction. Resolve the repository’s licensing separately; citation metadata does not grant permission to reuse the software.
-
-## Format documentation
-
-- [GitHub: About CITATION files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)
-- [Citation File Format 1.2.0 schema guide](https://github.com/citation-file-format/citation-file-format/blob/1.2.0/schema-guide.md)
-- [IEEE Reference Guide](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf)
