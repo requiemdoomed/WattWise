@@ -2,7 +2,7 @@
 
 ### A Regression-based Household Appliances Energy Consumption Prediction, with a test on Temporal Generalization
 
-Author: Swayam Shakya · Python · Jupyter 
+Author: Swayam Shakya · Jupyter Notebook · Python
 
 ![Observed energy through time](results/figures/timeline.png)
 
@@ -38,8 +38,6 @@ Three outer chronological folds rerun the entire family-and-parameter selection 
 | 1 | 66.618 | 72.361 |
 | 2 | 61.331 | 70.863 |
 | 3 | 60.925 | 72.279 |
-
-These are internal development-validation results, not external household validation. Full candidate and fold evidence is in `results/enhanced/`. The original experiment is preserved in the notebook and `results/v1_reference/`.
 
 ## Verification and limitations
 
