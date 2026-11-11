@@ -1,4 +1,4 @@
-# Version 2.0.0 - October 27, 2026
+# Version 2.0.0 - November 10, 2026
 
 ## Reproduced defects, then fixes
 
