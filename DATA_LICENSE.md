@@ -6,7 +6,7 @@
 - Source: https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction
 - License: Creative Commons Attribution 4.0 International (CC BY 4.0)
 - License terms: https://creativecommons.org/licenses/by/4.0/legalcode
-- Retrieved: October 27, 2026
+- Retrieved: November 10, 2026
 
 `data/raw/energydata_complete.csv` is redistributed without modification.
 `data/example_conditions.csv` is a derived selection of three original rows with target, lighting and random columns removed.
