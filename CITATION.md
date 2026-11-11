@@ -8,7 +8,7 @@ Repository: https://github.com/requiemdoomed/WattWise
 
 For the current WattWise manuscript, add this entry after reference [9]:
 
-> [10] S. Shakya, “WattWise: Household appliance energy estimation and forecasting,” version 2.0.0, GitHub repository, 2026. Accessed: Nov. 10, 2026. [Online]. Available: https://github.com/requiemdoomed/WattWise
+> [10] S. Shakya, “WattWise: A Regression-based Household Appliance Energy Consumption Prediction, with a test on Temporal Generalization”, GitHub repository, 2026. Accessed: Nov. 10, 2026. [Online]. Available: https://github.com/requiemdoomed/WattWise
 
 The reference number applies to the existing manuscript. In another paper, assign the number according to first appearance and use the date on which you actually accessed the repository.
 
