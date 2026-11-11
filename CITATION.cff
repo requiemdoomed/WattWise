@@ -1,0 +1,23 @@
+cff-version: "1.2.0"
+message: "If you use WattWise, please cite this software and separately cite the original dataset and research that you use. See CITATION.md for IEEE and BibTeX examples."
+type: software
+title: "WattWise: Household Appliance Energy Estimation and Forecasting"
+authors:
+  - family-names: "Shakya"
+    given-names: "Swayam"
+    website: "https://github.com/requiemdoomed"
+version: "2.0.0"
+date-released: "2026-10-27"
+repository-code: "https://github.com/requiemdoomed/WattWise"
+url: "https://github.com/requiemdoomed/WattWise"
+abstract: >-
+  A Python and Jupyter research project for household appliance energy
+  estimation and one-step forecasting, with chronological evaluation,
+  regression baselines, temporal model selection, diagnostic figures,
+  and reproducibility records.
+keywords:
+  - "household energy"
+  - "regression"
+  - "time-series forecasting"
+  - "temporal validation"
+  - "reproducible research"
