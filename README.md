@@ -51,7 +51,7 @@ Only one dwelling and part of one year are represented. Strong residual dependen
 
 ## Attribution and licensing
 
-Software and project documentation: MIT License, copyright 2026 Swayam Shakya. The dataset is separately **CC BY 4.0** and remains credited to Luis Candanedo. See [DATA_LICENSE.md](DATA_LICENSE.md). No raw data were modified. See [CITATION.cff](CITATION.cff) for project citation metadata.
+Software and project documentation: Software Distribution License, copyright 2026 Swayam Shakya. The dataset is separately **CC BY 4.0** and remains credited to Luis Candanedo. See [DATA_LICENSE.md](DATA_LICENSE.md). No raw data were modified. See [CITATION.cff](CITATION.cff) for project citation metadata.
 
 1. Candanedo, L. (2017). *Appliances Energy Prediction* [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5VC8G
 2. Candanedo, L. M., Feldheim, V., & Deramaix, D. (2017). Data driven prediction models of energy use of appliances in a low-energy house. *Energy and Buildings, 140*, 81-97. https://doi.org/10.1016/j.enbuild.2017.01.083
