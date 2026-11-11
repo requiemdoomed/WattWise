@@ -1,7 +1,8 @@
 cff-version: "1.2.0"
 message: "If you use WattWise, please cite this software and separately cite the original dataset and research that you use. See CITATION.md for IEEE and BibTeX examples."
 type: software
-title: "WattWise: Household Appliance Energy Estimation and Forecasting"
+title: "WattWise: A Regression-based Household Appliance Energy Consumption Prediction, with a test on Temporal Generalization
+"
 authors:
   - family-names: "Shakya"
     given-names: "Swayam"
